@@ -1,0 +1,39 @@
+{
+  "Data": [
+    {
+      "Frozen yoghurt": 159,
+      "Ice cream sandwich": 6.0,
+      "Cupcake": 40,
+      "Eclair": 24,
+      "Gingerbread": 4.0
+    },
+    {
+      "Frozen yoghurt": 159,
+      "Ice cream sandwich": 6.0,
+      "Cupcake": 40,
+      "Eclair": 24,
+      "Gingerbread": 4.0
+    },
+    {
+      "Frozen yoghurt": 159,
+      "Ice cream sandwich": 6.0,
+      "Cupcake": 40,
+      "Eclair": 24,
+      "Gingerbread": 4.0
+    },
+    {
+      "Frozen yoghurt": 159,
+      "Ice cream sandwich": 6.0,
+      "Cupcake": 40,
+      "Eclair": 24,
+      "Gingerbread": 4.0
+    }
+  ],
+  "columns": [
+    "Frozen yoghurt",
+    "Ice cream sandwich",
+    "Eclair",
+    "Cupcake",
+    "Gingerbread"
+  ]
+}
