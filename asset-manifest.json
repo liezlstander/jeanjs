@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/jeanjs/static/css/main.5285f022.chunk.css",
+    "main.js": "/jeanjs/static/js/main.8822abbc.chunk.js",
+    "main.js.map": "/jeanjs/static/js/main.8822abbc.chunk.js.map",
+    "runtime-main.js": "/jeanjs/static/js/runtime-main.d546d1c5.js",
+    "runtime-main.js.map": "/jeanjs/static/js/runtime-main.d546d1c5.js.map",
+    "static/js/2.0a5ce256.chunk.js": "/jeanjs/static/js/2.0a5ce256.chunk.js",
+    "static/js/2.0a5ce256.chunk.js.map": "/jeanjs/static/js/2.0a5ce256.chunk.js.map",
+    "static/js/3.8549a923.chunk.js": "/jeanjs/static/js/3.8549a923.chunk.js",
+    "static/js/3.8549a923.chunk.js.map": "/jeanjs/static/js/3.8549a923.chunk.js.map",
+    "index.html": "/jeanjs/index.html",
+    "static/css/main.5285f022.chunk.css.map": "/jeanjs/static/css/main.5285f022.chunk.css.map",
+    "static/js/2.0a5ce256.chunk.js.LICENSE.txt": "/jeanjs/static/js/2.0a5ce256.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jeanjs/static/media/logo.6ce24c58.svg",
+    "static/media/index.css": "/jeanjs/static/media/percolate.fae78e19.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d546d1c5.js",
+    "static/js/2.0a5ce256.chunk.js",
+    "static/css/main.5285f022.chunk.css",
+    "static/js/main.8822abbc.chunk.js"
+  ]
+}
